@@ -23,10 +23,10 @@ Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<b
 Developing DevOps solutions for the development teams including Continuous Integration, Continuous Deployment and Continuous Delivery. This includes Docker, AWS, and other cloud solutions.<br/>
 </P>
 <P>
-<span align="left">
+<div align="left">
 <b>Accesso, Team Lead – Payments</b>
-</span><span align="right">
-12/2014-03/2016</span><br/> 
+</div><div align="right">
+12/2014-03/2016</div><br/> 
 Development Environment:	Java, MySQL, C#, XML, Sockets
 <br/>
 Implemented new payment processing solutions while maintaining and monitoring the single back-end e-commerce solution for web, kiosk and mobile platforms Point-of-Sale platforms.  These new features and interfaces had to be within PCI compliance and standards.  This system processes over $1 billion (USD) in revenue every year. 
