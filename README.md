@@ -23,9 +23,9 @@ Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<b
 Developing DevOps solutions for the development teams including Continuous Integration, Continuous Deployment and Continuous Delivery. This includes Docker, AWS, and other cloud solutions.<br/>
 </P>
 <P>
-<div align="left">
+<div align="left" style="width:50%;">
 <b>Accesso, Team Lead – Payments</b>
-</div><div align="right">
+</div><div align="right" style="width:50%;">
 12/2014-03/2016</div><br/> 
 Development Environment:	Java, MySQL, C#, XML, Sockets
 <br/>
