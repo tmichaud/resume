@@ -1,8 +1,8 @@
 <P align="center">
-<b>Thomas E. Michaud</b>
-(407) 405-3974 
-thomas.michaud@gmail.com 
-github.com/tmichaud/resume
+<b>Thomas E. Michaud</b><br/>
+(407) 405-3974<br/>
+thomas.michaud@gmail.com<br/> 
+github.com/tmichaud/resume<br/>
 <br/>
 10+ years experience in Software Development 
 </P>
