@@ -10,10 +10,10 @@ github.com/tmichaud/resume<br/>
 Interests: Docker, Ruby, DevOps, Go, Chef, Puppet, Ansible
 </P>
 <P>
-Programming Languages: Java, Ruby SQL, C++, Perl, Bash Shell  
-Operating Systems: Unix Linux, Windows 
-Relational Databases: MySQL, Oracle, Sybase, MS-SQL
-Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins
+Programming Languages: Java, Ruby, SQL, C++, Perl, Bash Shell<br/>
+Operating Systems: Unix, Linux, Window<br/>
+Relational Databases: MySQL, Oracle, Sybase, MS-SQL<br/>
+Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins<br/>
 </P>
 <P>
 <b>Accesso, Architecture Team Senior Developer</b><br/>
