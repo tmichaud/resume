@@ -16,17 +16,13 @@ Relational Databases: MySQL, Oracle, Sybase, MS-SQL<br/>
 Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins<br/>
 </P>
 <P>
-<b>Accesso, Architecture Team Senior Developer</b><br/>
-03/2016-Present<br/>
+<b>Accesso, Architecture Team Senior Developer</b> - 03/2016-Present<br/>
 Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<br/>
 <br/>
 Developing DevOps solutions for the development teams including Continuous Integration, Continuous Deployment and Continuous Delivery. This includes Docker, AWS, and other cloud solutions.<br/>
 </P>
 <P>
-<div align="left" style="width:50%;">
-<b>Accesso, Team Lead – Payments</b>
-</div><div align="right" style="width:50%;">
-12/2014-03/2016</div><br/> 
+<b>Accesso, Team Lead – Payments</b> - 12/2014-03/2016</div><br/> 
 Development Environment:	Java, MySQL, C#, XML, Sockets
 <br/>
 Implemented new payment processing solutions while maintaining and monitoring the single back-end e-commerce solution for web, kiosk and mobile platforms Point-of-Sale platforms.  These new features and interfaces had to be within PCI compliance and standards.  This system processes over $1 billion (USD) in revenue every year. 
@@ -40,8 +36,7 @@ Notable Points:
 </ul>
 </P>
 <P>
-<b>Accesso, Senior Developer</b><br/>
-03/2013-12/2014<br/>
+<b>Accesso, Senior Developer</b> - 03/2013-12/2014<br/>
 Development Environment: Java, MySQL, C#, XML, Sockets<br/>
 Implemented new features the back-end ticketing framework and providing mentoring to developers.<br/>
 <br/>
@@ -53,15 +48,13 @@ Notable Points:
 </ul>
 </P>
 <P>
-<b>Accesso, Developer</b><br/>
-10/2011-03/2013<br/>
+<b>Accesso, Developer</b>   10/2011-03/2013<br/>
 Development Environment: Java, MySQL, XML, Sockets<br/>
 <br/>
 Implemented new features the back-end ticketing framework.<br/>
 </P>
 <P>
-<b>IBM, Programmer Analyst</b><br/>
-10/2010-10/2011<br/>
+<b>IBM, Programmer Analyst</b> 10/2010-10/2011<br/>
 Development Environment: Java, Ant, Sybase, Netezza, Weblogic, Tibco BusinessWorks<br/>
 <br/>
 Developed solutions for various clients.
@@ -79,8 +72,7 @@ TravelConnect2:  Extended and enhanced AAA Travel customer-facing travel reserva
 Automated Triptik System; Rewrote TripTik System to utilize a centralized and simplified core components of code, saving man-hours of maintenance work.  Updated back-end to utilize a multi-threaded call to a GIS Web Service to get the Triptik maps.<br/> 
 </P>
 <P>
-<b>Bonnier Corporation, Senior Web Developer<b><br/>
-06/2008-04/2009<br/>
+<b>Bonnier Corporation, Senior Web Developer</b> - 06/2008-04/2009<br/>
 Development Environment:	Java, JSP, JSTL, Tomcat, Struts, Hibernate, Spring, Linux<br/>
 <br/>
 Responsible for resolving problems on over 30 web sites using JSP, JSTL, Struts, Hibernate, Spring.  Also responsible for finding, evaluating and recommending troubleshooting and profiling tools.<br/> 
@@ -90,15 +82,13 @@ Upgraded sites to latest version of Java, Tomcat and Struts to provide a consist
 Reduced the number of Java tickets from 350+ to roughly 100.<br/> 
 </P>
 <P>
-<b>NCR, Programmer Analyst</b><br/>
-12/2007-05/2008</b><br/>
+<b>NCR, Programmer Analyst</b> - 12/2007-05/2008<br/>
 Development Environment: JSP, JSTL, Java, Internet Explorer, XML, Tomcat, YUI, C++ SVN, SQL<br/>
 <br/>
 Delta Airlines Self-Service Kiosk : Rewrote the web pages of the kiosk including buttons, panels and flow.<br/>
 </P>
 <P>
-<b>Federal Express Senior Programmer Analyst</b><br/>
-06/1999-01/2007 </b><br/>
+<b>Federal Express Senior Programmer Analyst</b> - 06/1999-01/2007 <br/>
 Development Environment: C++, Sybase, Oracle, Java, JSP, Struts,  Clearcase, XML, JMS, Tibco Business Works, Solaris, Linux, pThreads, Perl, Tuxedo, Korn Shell</b><br/>
 <br/>
 Prepare For Invoicing (PFI)<br/> 
