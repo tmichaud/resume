@@ -1,7 +1,7 @@
 <P align="center">
 <b>Thomas E. Michaud</b><br/>
 (407) 405-3974<br/>
-thomas.michaud@gmail.com<br/> 
+thomas.michaud@gmail.com<br/>
 github.com/tmichaud/resume<br/>
 <br/>
 10+ years experience in Software Development 
@@ -10,7 +10,7 @@ github.com/tmichaud/resume<br/>
 Interests: Docker, Ruby, DevOps, Go, Chef, Puppet, Ansible
 </P>
 <P>
-Programming Languages: Java, Ruby SQL, C++, Perl, Bash Shell 
+Programming Languages: Java, Ruby SQL, C++, Perl, Bash Shell  
 Operating Systems: Unix Linux, Windows 
 Relational Databases: MySQL, Oracle, Sybase, MS-SQL
 Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins
