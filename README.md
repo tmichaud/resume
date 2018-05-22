@@ -29,6 +29,7 @@ Notable Points:
 <li>Migrated production jobs from individual configuration files to a centralized configuration database to simplify configuration.
 <li>Created an AWS prototype solution of the current application
 <li>Researched new technologies including Tyk, Docker and OpenShift
+</uL>
 </P>
 <P>
 <b>Accesso, Team Lead – Payments</b> - 12/2014-03/2016</div><br/> 
