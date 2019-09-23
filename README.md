@@ -25,6 +25,7 @@ Notable Points:
 <li>Setting up Jenkins pipelines in OpenShift for Development teams to ensure testing and automated delivery.
 <li>Developing Ansible scripts to configure both Linux and Windows boxes in both command-line Ansible and Ansible Tower.
 </u>
+</P>
 <P>
 <b>Accesso, Architecture Team Senior Developer</b> - 03/2016-03/2018<br/>
 Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<br/>
