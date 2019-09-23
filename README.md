@@ -6,7 +6,7 @@ http://github.com/tmichaud/resume<br/>
 10+ years experience in Software Development 
 </P>
 <P>
-Current Areas of Study: Docker, DevOps, Go, Java, Ansible
+Current Areas of Study: Docker, Kubernetes, DevOps, Go, Java, Ansible
 </P>
 <P>
 Programming Languages: Go, Java, SQL, Python, Perl, Ruby, Bash Shell, C++<br/>
@@ -14,6 +14,17 @@ Operating Systems: Unix, Linux, Windows<br/>
 Relational Databases: MySQL, Oracle, Sybase, MS-SQL<br/>
 Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins<br/>
 </P>
+<P>
+<b>Defense Contractor, DevOps (Contractor)</b> - 10/2018-Present<br/>
+Development Environment: Ansible, OpenShift, Jenkins, VMWare, Satellite, Nexus, Docker<br/>
+<br/>
+Worked on a program-enhancing team to explore the shift from legacy Windows applications to a Linux-OpenShift containerized approach.
+<br/>
+Notable Points:
+<ul>
+<li>Setting up Jenkins pipelines in OpenShift for Development teams to ensure testing and automated delivery.
+<li>Developing Ansible scripts to configure both Linux and Windows boxes in both command-line Ansible and Ansible Tower.
+</u>
 <P>
 <b>Accesso, Architecture Team Senior Developer</b> - 03/2016-03/2018<br/>
 Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<br/>
