@@ -33,9 +33,9 @@ Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<b
 Creating DevOps solutions for the development teams including Continuous Integration, Continuous Deployment and Continuous Delivery.<br/>
 Notable Points:
 <ul>
-<li>Migrated all git repositories from locally hosted Gerrit to GitHub via Python and Bash scripts
+<li>Migrated all Git repositories from locally hosted Gerrit to GitHub via Python and Bash scripts
 <li>Managed, standardized and maintained the build scritps for 75+ GitHub repositories
-<li>Developing both Nightly and Continuous Integration scripts with GitHub protected branches with status checks. This includes working with both development and management in standardizing our software control processes.
+<li>Developed both Nightly and Continuous Integration scripts with GitHub protected branches with status checks. This includes working with both development and management in standardizing our software control processes.
 <li>Developed a release script that processed 75+ repos: automatically detecting, cutting, building, testing and deploying to QA.  Development stack: Python, Bash, SSH and Jenkins
 <li>Installed and configured a MySQL database on a RAM drive.  This reduced automated testing speed by a factor of 600%.
 <li>Migrated production jobs from individual configuration files to a centralized configuration database to simplify configuration.
@@ -73,7 +73,7 @@ Notable Points:
 <b>Accesso, Developer</b> - 10/2011-03/2013<br/>
 Development Environment: Java, MySQL, XML, Sockets<br/>
 <br/>
-Implemented new features the back-end ticketing framework.<br/>
+Implemented new features to the back-end ticketing framework.<br/>
 </P>
 <P>
 <b>IBM, Programmer Analyst</b> - 10/2010-10/2011<br/>
