@@ -3,17 +3,39 @@
 thomas.michaud@gmail.com<br/>
 http://github.com/tmichaud/resume<br/>
 <br/>
-10+ years experience in Software Development 
-</P>
 <P>
 Current Areas of Study: Docker, Kubernetes, DevOps, Go, Java, Ansible
 </P>
-<P>
-Programming Languages: Go, Java, SQL, Python, Perl, Ruby, Bash Shell, C++<br/>
-Operating Systems: Unix, Linux, Windows<br/>
-Relational Databases: MySQL, Oracle, Sybase, MS-SQL<br/>
-Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins<br/>
+Skills Summary: 
 </P>
+<ul>
+<li> 10+ years experience in Software Development 
+<li> Programming Languages: Go, Java, SQL, Python, Perl, Ruby, Bash Shell, C++
+<li> Operating Systems: Unix, Linux, Windows
+<li> Relational Databases: MySQL, Oracle, Sybase, MS-SQL
+<li> Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins, CURL, Postman
+<P>
+<b>Imagine Believe Realize, LLC., Identity Engineer</b> - 06/2020-Present<br/>
+Okta Certified Professional<br/>
+Development Environment: AWS, Java, Okta, Ping, Docker OAuth2, OIDC, SAML<br/>
+<br/>
+Developed identity and authorization solutions in a variety of environments.<br/>
+<br/>
+Notable items:
+<ul>
+<li>Investigated Ping Federate using AWS, Docker and Ping DevOps
+<li>Developed Okta interface pages using AJAX and Okta APIs in Liferay, Docker, HTML, Bootstrap.
+</ul>
+<P>
+<b>Imagine Believe Realize, LLC., DevOps Engineer</b> - 11/2019-06/2020<br/>
+Development Environment: AWS, Liferay, Java, Ansible, Nexus, Git, Bamboo, Jira<br/>
+<br/>
+Specialized in the development of pipelines to automate the building and delivery of software to QA and Production.<br/>
+<br/>
+Notable Points:
+<ul>
+<li> Developed a "web scraper" notification program using Lambda, Python, SQS and SNS
+</ul>
 <P>
 <b>Defense Contractor, DevOps (Contractor)</b> - 10/2018-Present<br/>
 Development Environment: Ansible, OpenShift, Jenkins, VMWare, Satellite, Nexus, Docker<br/>
