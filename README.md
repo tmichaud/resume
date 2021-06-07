@@ -14,6 +14,7 @@ Skills Summary:
 <li> Operating Systems: Unix, Linux, Windows
 <li> Relational Databases: MySQL, Oracle, Sybase, MS-SQL
 <li> Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins, CURL, Postman
+</ul>
 <P>
 <b>Imagine Believe Realize, LLC., Identity Engineer</b> - 06/2020-Present<br/>
 Okta Certified Professional<br/>
