@@ -4,17 +4,43 @@ thomas.michaud@gmail.com<br/>
 http://github.com/tmichaud/resume<br/>
 <br/>
 <P>
-Current Areas of Study: Docker, Kubernetes, DevOps, Go, Java, Ansible
+10+ years’ experience in Software Development<br/>
+Current Areas of Study: Docker, Kubernetes, Terraform, DevOps, Go, Java, Ansible
 </P>
 Skills Summary: 
-</P>
 <ul>
-<li> 10+ years experience in Software Development 
-<li> Programming Languages: Go, Java, SQL, Python, Perl, Ruby, Bash Shell, C++
-<li> Operating Systems: Unix, Linux, Windows
-<li> Relational Databases: MySQL, Oracle, Sybase, MS-SQL
-<li> Other: HTML, CSS, XML, Git, SVN, JUnit, Mockito, Jenkins, CURL, Postman
+<li>Programming Languages: Go, Java, Python, SQL, Perl, Bash Shell 
+<li>Operating Systems: Unix, Linux, Windows 
+<li>Relational Databases: MySQL, Oracle, Sybase, MS-SQL
+<li>CI/CD Servers: Jenkins, Gitlab Bamboo
+<li>Orchestration/Provisioning Tools: Terraform, Cloudformation, Ansible
+<li>Source Code Control: Git, SVN, CVS, ClearCase, SourceSafe, Vault, PVCS
+<li>Other: HTML, CSS, XML, JUnit, Mockito, CURL, Postman
 </ul>
+</P>
+<P>
+<b>Steampunk, Senior DevOps Engineer → Technical Lead → Principle DevSecOps Engineer</b> - 08/2021-Present</br/>
+Development Environment: AWS (Hybrid), GitLab, Jenkins, SonarQube, Nexus RM3, Nexus IQ<br/>
+<br/>
+Originally brought in as a Senior DevOps Engineer, Thomas was quickly promoted to  lead of the Platform team. This small team (2-4 individuals) was responsible for installation, upgrades and maintenance of the Commercial-off-the-Shelf (COTS) applications used by the customer.  These applications included:<br/>
+<ul>
+<li> Gitlab
+<li> (CloudBees) Jenkins and Jenkins Community Edition
+<li> SonarQube (for Static Code Analysis)
+<li> Sonatype Nexus IQ ( for Dependency Analysis, Static Code Analysis and SBOM creation)
+<li> Sonatype Nexus Respository Manager
+</ul>
+<br/>
+This team proposed, created, and executed and upgrade cadence for these applications.  They wrote Terraform and Ansible scripts to automate installation processes, provide an Infrastructure as Code (IaC) traceability and blue/green deployments. This allowed the team to significantly decrease the amount of time needed to upgrade applications from months to hours, with one case involving a critical patch being upgrading from start to finish within 18 hours.<br/>
+<br/>
+The team also supported a move from CloudBees Jenkins (on premises) to Jenkins Community Edition running on containers using AWS Fargate. This saved the client significant amounts, not only on licensing fees but also on a reduced on-premises server footprint (dozens of servers were decommissioned in the process)<br/>
+<br/>
+The Platform team also proposed and outlined migration plans to move Nexus IQ and Nexus RM from the on premises data center to AWS.<br/>
+<br/>
+Thomas was promoted to Technical Lead, assisting both the Platform team and the Pipeline team.  The Pipeline team was a small team of 2-4 developers that were responsible for the development, advocacy and maintenance of the pipeline tools used by all development teams of the client.  Specifically, this team was responsible for researching, evaluating, and developing pipelines to compile, analyze and deploy development teams code.  Furthermore, they provided Proof-of-Concepts and supported pipelines to other applications such as LoadRunner, Fortify, and WebInspect.<br/>
+<br/>
+In 2023, Thomas was promoted to Principle DevSecOps Engineer.<br/>
+</P>
 <P>
 <b>Imagine Believe Realize, LLC., Identity Engineer</b> - 06/2020-Present<br/>
 Okta Certified Professional<br/>
@@ -45,7 +71,7 @@ Worked on a program-enhancing team to explore the shift from legacy Windows appl
 <br/>
 Notable Points:
 <ul>
-<li>Setting up Jenkins pipelines in OpenShift for Development teams to ensure testing and automated delivery.
+<li>Setting up Jenkins pipelines in OpenShift for Development teams to ensure testing and automating delivery.
 <li>Developing Ansible scripts to configure both Linux and Windows boxes in both command-line Ansible and Ansible Tower.
 </ul>
 </P>
@@ -103,28 +129,6 @@ Implemented new features to the back-end ticketing framework.<br/>
 Development Environment: Java, Ant, Sybase, Netezza, Weblogic, Tibco BusinessWorks<br/>
 <br/>
 Developed solutions for various clients.
-</P>
-<P>
-<b>American Automobile Association - National Office, Programmer Analyst</b><br/>
-Internet Development - 06/2009-10/2010<br/>
-Club Support - 02/2007-12/2007<br/>
-Development Environment:	Java, JSP, Struts JSF, IceFaces, JBOSS, Seam, Ant, Liferay, Eclipse, Informix, JDBC, Solaris; C++, Web Services, XML, pthreads<br/>
-<br/>
-Travel Agent Portal: Worked on integrating Liferay portal application for Travel Agents. Utilized Liferay's Single Sign-On event handler to validate the user and process them though the system.<br/> 
-<br/>
-TravelConnect2:  Extended and enhanced AAA Travel customer-facing travel reservation system.<br/> 
-<br/>
-Automated Triptik System; Rewrote TripTik System to utilize a centralized and simplified core components of code, saving man-hours of maintenance work.  Updated back-end to utilize a multi-threaded call to a GIS Web Service to get the Triptik maps.<br/> 
-</P>
-<P>
-<b>Bonnier Corporation, Senior Web Developer</b> - 06/2008-04/2009<br/>
-Development Environment:	Java, JSP, JSTL, Tomcat, Struts, Hibernate, Spring, Linux<br/>
-<br/>
-Responsible for resolving problems on over 30 web sites using JSP, JSTL, Struts, Hibernate, Spring.  Also responsible for finding, evaluating and recommending troubleshooting and profiling tools.<br/> 
-<br/>
-Upgraded sites to latest version of Java, Tomcat and Struts to provide a consistent platform and reduce the number of tickets.<br/> 
-<br/>
-Reduced the number of Java tickets from 350+ to roughly 100.<br/> 
 </P>
 <P>
 <b>Education:</b><br/>
