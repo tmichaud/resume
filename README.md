@@ -19,6 +19,11 @@ Skills Summary:
 </ul>
 </P>
 <P>
+Certifications:
+Okta Certified Professional - Expires: 04/28/2025
+AWS Certified Practitioner - Expires: 05/20/2026
+Hashicorp Certified: Terraform Associate - Expires: 11/18/2025
+<P>
 <b>Steampunk, Senior DevOps Engineer → Technical Lead → Principle DevSecOps Engineer</b> - 08/2021-Present</br/>
 Development Environment: AWS (Hybrid), GitLab, Jenkins, SonarQube, Nexus RM3, Nexus IQ<br/>
 <br/>
