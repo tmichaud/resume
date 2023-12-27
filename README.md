@@ -4,7 +4,7 @@ thomas.michaud@gmail.com<br/>
 http://github.com/tmichaud/resume<br/>
 <br/>
 <P>
-10+ years’ experience in Software Development<br/>
+15+ years’ experience in Software Development<br/>
 Current Areas of Study: Docker, Kubernetes, Terraform, DevOps, Go, Java, Ansible
 </P>
 Skills Summary: 
@@ -19,7 +19,7 @@ Skills Summary:
 </ul>
 </P>
 <P>
-Certifications:
+Certifications: https://www.credly.com/users/thomas-michaud/badges 
 Okta Certified Professional - Expires: 04/28/2025
 AWS Certified Practitioner - Expires: 05/20/2026
 Hashicorp Certified: Terraform Associate - Expires: 11/18/2025
@@ -29,20 +29,20 @@ Development Environment: AWS (Hybrid), GitLab, Jenkins, SonarQube, Nexus RM3, Ne
 <br/>
 Originally brought in as a Senior DevOps Engineer, Thomas was quickly promoted to  lead of the Platform team. This small team (2-4 individuals) was responsible for installation, upgrades and maintenance of the Commercial-off-the-Shelf (COTS) applications used by the customer.  These applications included:<br/>
 <ul>
-<li> Gitlab
+<li> Gitlab (for both git repository and CI/CD via Gitlab Runners)
 <li> (CloudBees) Jenkins and Jenkins Community Edition
 <li> SonarQube (for Static Code Analysis)
 <li> Sonatype Nexus IQ ( for Dependency Analysis, Static Code Analysis and SBOM creation)
-<li> Sonatype Nexus Respository Manager
+<li> Sonatype Nexus Respository Manager (for jars, npm and docker images)
 </ul>
 <br/>
 This team proposed, created, and executed and upgrade cadence for these applications.  They wrote Terraform and Ansible scripts to automate installation processes, provide an Infrastructure as Code (IaC) traceability and blue/green deployments. This allowed the team to significantly decrease the amount of time needed to upgrade applications from months to hours, with one case involving a critical patch being upgrading from start to finish within 18 hours.<br/>
 <br/>
-The team also supported a move from CloudBees Jenkins (on premises) to Jenkins Community Edition running on containers using AWS Fargate. This saved the client significant amounts, not only on licensing fees but also on a reduced on-premises server footprint (dozens of servers were decommissioned in the process)<br/>
+The team also supported a move from CloudBees Jenkins (on premises) to Jenkins Community Edition running on containers using AWS Fargate. This saved the client significant amounts on licensing fees and on a reduced on-premises server footprint.<br/>
 <br/>
 The Platform team also proposed and outlined migration plans to move Nexus IQ and Nexus RM from the on premises data center to AWS.<br/>
 <br/>
-Thomas was promoted to Technical Lead, assisting both the Platform team and the Pipeline team.  The Pipeline team was a small team of 2-4 developers that were responsible for the development, advocacy and maintenance of the pipeline tools used by all development teams of the client.  Specifically, this team was responsible for researching, evaluating, and developing pipelines to compile, analyze and deploy development teams code.  Furthermore, they provided Proof-of-Concepts and supported pipelines to other applications such as LoadRunner, Fortify, and WebInspect.<br/>
+Thomas was promoted to Technical Lead, assisting both the Platform team and the Pipeline team.  The Pipeline team was a small team of 2-4 developers that were responsible for the development, advocacy and maintenance of the pipeline tools used by all development teams of the client.  Specifically, this team was responsible for researching, evaluating, and developing pipelines to compile, analyze and deploy development teams code in both Gitlab and Jenkins.  Furthermore, they provided Proof-of-Concepts and supported pipelines to other applications such as LoadRunner, Fortify, and WebInspect.<br/>
 <br/>
 In 2023, Thomas was promoted to Principle DevSecOps Engineer.<br/>
 </P>
@@ -55,8 +55,9 @@ Developed identity and authorization solutions in a variety of environments.<br/
 <br/>
 Notable items:
 <ul>
-<li>Investigated Ping Federate using AWS, Docker and Ping DevOps
-<li>Developed Okta interface pages using AJAX and Okta APIs in Liferay, Docker, HTML, Bootstrap.
+<li>Implemented and configured SAML and OIDC authentication protocols with Okta to provide Single-Sign-On capabilities for applications, enhanced security and increasing scalability of applications. 
+<li>Configured and managed Okta applications, users, and security policies ensuring seamless integration and adherence to industry best practices in identity and access management. 
+<li>Investigated Ping Federate using AWS, Docker, Ping DevOps.  
 </ul>
 <P>
 <b>Imagine Believe Realize, LLC., DevOps Engineer</b> - 11/2019-06/2020<br/>
@@ -66,7 +67,8 @@ Specialized in the development of pipelines to automate the building and deliver
 <br/>
 Notable Points:
 <ul>
-<li> Developed a "web scraper" notification program using Lambda, Python, SQS and SNS
+<li> Developed a  notification program using Lambda, Python, SQS, and SNS.  This allowed proactive detection of configuration changes that resulted in reduced impact to the users.
+<li> Configured and maintained Bamboo, Bitbucket and Jira applications to ensure seamless integration of the CI/CD pipelines from issue tracking to code management to production deployment.
 </ul>
 <P>
 <b>Defense Contractor, DevOps (Contractor)</b> - 10/2018-Present<br/>
