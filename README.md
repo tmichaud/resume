@@ -44,10 +44,10 @@ unneeded resources. This was also an required step in the move from releasing vi
 <li>Lead and updated the Jenkins release process. This release process involved running all customizations required
 and updating the applications on load night, debugging any issues that may occur and releasing the environment to
 the testing teams and getting approval to release the environment to the customers.
-<li>Address several security concerns including:
-◦ Changes to ensure Gitlab branches were tied to an appropriate Jira ticket
-◦ Updating pipelines to invoke DAST scans (Invicti) during builds
-◦ Investigating and addressing MySQL security audit concerns
+<li>Address several security concerns including:<br/>
+◦ Changes to ensure Gitlab branches were tied to an appropriate Jira ticket<br/>
+◦ Updating pipelines to invoke DAST scans (Invicti) during builds<br/>
+◦ Investigating and addressing MySQL security audit concerns<br/>
 </ul>
 </P>
 <P>
