@@ -19,10 +19,15 @@ Skills Summary:
 </ul>
 </P>
 <P>
-Certifications: https://www.credly.com/users/thomas-michaud/badges 
-Okta Certified Professional - Expires: 04/28/2025
-AWS Certified Practitioner - Expires: 05/20/2026
-Hashicorp Certified: Terraform Associate - Expires: 11/18/2025
+Certifications: 
+<ul>
+<li>Okta Certified Professional - Expires: 04/28/2025
+<li>AWS Certified Practitioner - Expires: 05/20/2026
+<li>Hashicorp Certified: Terraform Associate - Expires: 11/18/2025
+</ul>
+<br/>
+https://www.credly.com/users/thomas-michaud/badges 
+</P>
 <P>
 <b>Steampunk, Principle DevSecOps Engineer</b> -  08/2024-Present<br/>
 On contract for FEMA<br/>
