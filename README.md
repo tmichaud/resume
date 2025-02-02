@@ -25,7 +25,6 @@ Certifications:
 <li>AWS Certified Practitioner - Expires: 05/20/2026
 <li>Hashicorp Certified: Terraform Associate - Expires: 11/18/2025
 </ul>
-<br/>
 https://www.credly.com/users/thomas-michaud/badges 
 </P>
 <P>
