@@ -10,7 +10,7 @@ Current Areas of Study: Docker, Kubernetes, Terraform, DevOps, Go, Java, Ansible
 Skills Summary: 
 <ul>
 <li>Programming Languages: Go, Java, Python, SQL, Perl, Bash Shell 
-<li>Operating Systems: Unix, Linux, Windows 
+<li>Operating Systems: Openshift, Unix, Linux, Windows 
 <li>Relational Databases: MySQL, Oracle, Sybase, MS-SQL
 <li>CI/CD Servers: Jenkins, Gitlab Bamboo
 <li>Orchestration/Provisioning Tools: Terraform, Cloudformation, Ansible
@@ -24,7 +24,31 @@ Okta Certified Professional - Expires: 04/28/2025
 AWS Certified Practitioner - Expires: 05/20/2026
 Hashicorp Certified: Terraform Associate - Expires: 11/18/2025
 <P>
-<b>Steampunk, Senior DevOps Engineer → Technical Lead → Principle DevSecOps Engineer</b> - 08/2021-Present</br/>
+<b>Steampunk, Principle DevSecOps Engineer</b> -  08/2024-Present<br/>
+On contract for FEMA<br/>
+Development Environment: Google Cloud Platform, Gitlab, Harness, Openshift (Kubernetes), ArgoCD, NexusRM, Jenkins, MySQL<br/>
+<br/>
+Brought in as a DevOps engineer, Thomas quickly learned the Google Cloud Platform and Openshift environment. He was
+assigned as a DevOps Liason for application development and then learned their particular applications as well. He was
+fundamental in assisting the team toward successfully meeting their goals.<br/>
+<br/>
+Notably:
+<ul>
+<li>Reviewed, updated, and standardized his development teams Openshift configuration files while rewriting them
+from Kustomize to Helm Templates. This allowed for greater readability, easier configuration and freeing of
+unneeded resources. This was also an required step in the move from releasing via Jenkins to via Harness.
+<li>Lead and updated the Jenkins release process. This release process involved running all customizations required
+and updating the applications on load night, debugging any issues that may occur and releasing the environment to
+the testing teams and getting approval to release the environment to the customers.
+<li>Address several security concerns including:
+◦ Changes to ensure Gitlab branches were tied to an appropriate Jira ticket
+◦ Updating pipelines to invoke DAST scans (Invicti) during builds
+◦ Investigating and addressing MySQL security audit concerns
+</ul>
+</P>
+<P>
+<b>Steampunk, Senior DevOps Engineer → Technical Lead → Principle DevSecOps Engineer</b> - 08/2021-01/2024<br/>
+On contract for USPTO<br/>
 Development Environment: AWS (Hybrid), GitLab, Jenkins, SonarQube, Nexus RM3, Nexus IQ<br/>
 <br/>
 Originally brought in as a Senior DevOps Engineer, Thomas was quickly promoted to  lead of the Platform team. This small team (2-4 individuals) was responsible for installation, upgrades and maintenance of the Commercial-off-the-Shelf (COTS) applications used by the customer.  These applications included:<br/>
@@ -48,6 +72,7 @@ In 2023, Thomas was promoted to Principle DevSecOps Engineer.<br/>
 </P>
 <P>
 <b>Imagine Believe Realize, LLC., Identity Engineer</b> - 06/2020-Present<br/>
+On contract for the US Navy<br/>
 Okta Certified Professional<br/>
 Development Environment: AWS, Java, Okta, Ping, Docker OAuth2, OIDC, SAML<br/>
 <br/>
