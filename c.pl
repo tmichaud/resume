@@ -98,6 +98,7 @@ while (my $line = <STDIN>) {
 			next;
 		}
 		# Job history
+		print nl(newline(""));
 		print nl(newline(bold($line)));
 	        $job_count = $count; 	
 		next;	

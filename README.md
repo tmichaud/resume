@@ -26,6 +26,7 @@ https://github.com/tmichaud/resume<br/>
 </ul>
 https://www.credly.com/users/thomas-michaud/badges
 </P>
+<br/>
 <b>Steampunk, Principle DevSecOps Engineer 08/2024-Present</b><br/>
 <b>On contract for FEMA</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Google Cloud Platform, GitLab, Harness, OpenShift (Kubernetes), Helm, ArgoCD,<br/>
@@ -39,6 +40,7 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;    -   Changes to ensure GitLab branches were tied to an appropriate Jira ticket<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    -   Updating pipelines to invoke DAST scans (Invicti) during builds<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    -   Investigating and addressing MySQL security audit concerns<br/>
+<br/>
 <b>Steampunk, Senior DevOps Engineer → Technical Lead → Principle DevSecOps Engineer 08/2021-01/2024</b><br/>
 <b>On contract for USPTO</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: AWS (Hybrid), GitLab, Jenkins, SonarQube, Nexus RM, Nexus IQ<br/>
@@ -53,6 +55,7 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;The Platform team also proposed and outlined migration plans to move Nexus IQ and Nexus RM from the on premises data center to AWS.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Thomas was promoted to Technical Lead, assisting both the Platform team and the Pipeline team. The Pipeline team was a small team of 2-4 developers that were responsible for the development, advocacy and maintenance of the pipeline tools used by all development teams of the client. Specifically, this team was responsible for researching, evaluating, and developing pipelines to compile, analyze and deploy development teams code in both GitLab and Jenkins. Furthermore, they provided Proof-of-Concepts and supported pipelines to other applications such as LoadRunner, Fortify, and WebInspect.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;In 2023, Thomas was promoted to Principle DevSecOps Engineer.<br/>
+<br/>
 <b>Imagine Believe Realize, LLC. Identity Engineer 06/2020-08/2021</b><br/>
 <b>On contract for the US Navy</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Okta Certified Professional<br/>
@@ -62,6 +65,7 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;-   Implemented and configured SAML and OIDC authentication protocols with Okta to provide Single-Sign-On capabilities for applications, enhanced security and increasing scalability of applications.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Configured and managed Okta applications, users, and security policies ensuring seamless integration and adherence to industry best practices in identity and access management.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Investigated Ping Federate using AWS, Docker, Ping DevOps.<br/>
+<br/>
 <b>Imagine Believe Realize, LLC. DevOps Engineer 11/2019-06/2020</b><br/>
 <b>On contract for the US Navy</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: AWS, Liferay, Java, Ansible, Nexus, Git, Bamboo, BitBucket, Jira<br/>
@@ -69,14 +73,17 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;Notable items:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developed a notification program using Lambda, Python, SQS, and SNS. This allowed proactive detection of configuration changes that resulted in reduced impact to the users.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Configured and maintained Bamboo, Bitbucket and Jira applications to ensure seamless integration of the CI/CD pipelines from issue tracking to code management to production deployment.<br/>
+<br/>
 <b>Lockheed Martin, DevOps (Contractor) 10/2018-11/2019</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Ansible, OpenShift, Jenkins, VMWare, Satellite, Nexus, Docker<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Worked on a program-enhancing team to explore the shift from legacy Windows applications to a Linux-OpenShift containerized approach.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Notable items:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Setting up Jenkins pipelines in OpenShift for Development teams to ensure testing and automating delivery<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developing Ansible scripts to configure both Linux and Windows boxes in both command-line Ansible and Ansible Tower<br/>
+<br/>
 <b>Employment Gap -- Sabbatical 03/2018-10/2018</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Sabbatical with Family<br/>
+<br/>
 <b>Accesso, Architecture Team Senior Developer 03/2016-03/2018</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Creating DevOps solutions for the development teams including Continuous Integration, Continuous Deployment and Continuous Delivery.<br/>
@@ -89,6 +96,7 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;-   Migrated production jobs from individual configuration files to a centralized configuration database to simplify configuration.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Created an AWS prototype solution of current application<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Researched new technologies including Tyk, Docker and OpenShift.<br/>
+<br/>
 <b>Accesso, Team Lead -- Payments 12/2014-03/2016</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, MySQL, C#, XML, Sockets<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Implemented new payment processing solutions while maintaining and monitoring the single back-end e-commerce solution for web, kiosk and mobile platforms Point-of-Sale platforms. These new features and interfaces had to be within PCI compliance and standards. This system processes over \$1 billion (USD) in revenue every year.<br/>
@@ -97,6 +105,7 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developed code to process additional payment processors (Ogone and Acculynk). This allowed us to process additional card types including China Union Pay and JCB. Developed in Java, MySQL, XML.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developed code for new Point-of-Sale system to process payment processors including Shift4 and Verifone (UK and US) while interfacing with new vendors. Developed in Java, C#, MySQL.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Design Patterns -- recommended and implemented several design patterns including Factory, Dependency Injection and Chain-of-Responsibility to inject specific payment processor mechanisms into our Point-of-Sale system safely and easily -- reducing development time.<br/>
+<br/>
 <b>Accesso, Senior Developer 03/2013-12/2014</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, MySQL, C#, XML, Sockets<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Implemented new features to the back-end ticketing framework and providing mentoring to developers.<br/>
@@ -104,9 +113,11 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;-   Evaluated and recommended simplified load techniques -- such as automation, data migration and configuration management.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Evaluated, recommended and implemented Unit Testing via JUnit testing framework and Continuous Integration Server (Jenkins). Evaluated and recommended Mockito and PowerMock.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Recommended and implemented switching to Git source code control (in 2013).<br/>
+<br/>
 <b>Accesso, Developer 10/2011-03/2013</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, MySQL, XML, Sockets<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Implemented new features to the back-end ticketing framework.<br/>
+<br/>
 <b>IBM, Programmer Analyst 10/2010-10/2011</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Traveling Consultant<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, Ant, Sybase, Netezza, Weblogic, Tibco BusinessWorks<br/>
