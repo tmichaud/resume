@@ -123,6 +123,7 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, Ant, Sybase, Netezza, Weblogic, Tibco BusinessWorks<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Developed solutions for various clients from deploying Java Servlet Programs on WebLogic to developing custom<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;functions in Netezza.<br/>
+<br/>
 <P>
 <b>Education:</b>
 <ul>

@@ -75,6 +75,7 @@ while (my $line = <STDIN>) {
 
 		# Education
 		if ($line =~ /^Education/) {
+			print nl(newline(""));
 			print nl("<P>");
 			print nl(bold($line));
 			print nl("<ul>");
