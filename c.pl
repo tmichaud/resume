@@ -12,6 +12,10 @@ sub newline {
 	my ($text) = @_;
 	return "$text<br/>";
 }
+sub cpar {
+	my ($text) = @_;
+	return "<P align=\"center\">$text</P>";
+}
 sub par {
 	my ($text) = @_;
 	return "<P>$text</P>";
@@ -52,18 +56,18 @@ while (my $line = <STDIN>) {
 			next;
 		}
 		if (($count == 2) || ($count == 3)) {  # Experience && Current
-			print nl(par($line));
+			print nl(cpar(bold($line)));
 			next;	
 		}
 		if ($count == 4) {                     # Skills 
 			print nl("<P>");
-			print nl($line);
+			print nl(bold($line));
 			print nl("<ul>");
 			next;
 		}
 		if ($count == 5) {                     # Certifications
 			print nl("<P>");
-			print nl($line);
+			print nl(bold($line));
 			print nl("<ul>");
 			next;
 		}

@@ -2,10 +2,10 @@
 <b>Thomas E. Michaud</b><br/>
 thomas.michaud@gmail.com<br/>
 https://github.com/tmichaud/resume<br/>
-<P>15+ years' experience in Software Development</P>
-<P>Current Areas of Study: Kubernetes, Docker, Terraform, DevOps, Go, Ansible, Java</P>
+<P align="center"><b>15+ years' experience in Software Development</b></P>
+<P align="center"><b>Current Areas of Study: Kubernetes, Docker, Terraform, DevOps, Go, Ansible, Java</b></P>
 <P>
-Skills Summary:
+<b>Skills Summary:</b>
 <ul>
 <li>Programming Languages: Go, Java, Python, SQL, Perl, Bash Shell
 <li>Operating Systems: OpenShift, Unix, Linux, Windows
@@ -17,7 +17,7 @@ Skills Summary:
 </ul>
 </P>
 <P>
-Certifications:
+<b>Certifications:</b>
 <ul>
 <li>Associate Cloud Engineer (Google) Expires 05/17/2028
 <li>Okta Certified Professional Expires 04/13/2027
@@ -43,15 +43,11 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>On contract for USPTO</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: AWS (Hybrid), GitLab, Jenkins, SonarQube, Nexus RM, Nexus IQ<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Originally brought in as a Senior DevOps Engineer, Thomas was quickly promoted to lead of the Platform team. This small team (2-4 individuals) was responsible for installation, upgrades and maintenance of the Commercial-off-the-Shelf (COTS) applications used by the customer. These applications included:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;> \- GitLab (both for git repository and CI/CD via GitLab Runners)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;> \- (CloudBees) Jenkins and Jenkins Community Edition<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;> \- SonarQube (for Static Code Analysis)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;> \- Sonatype Nexus IQ (for Dependency Analysis, Static Code Analysis and SBOM creation)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;> \- Sonatype Nexus Repository Manager (for jars, npms, and docker images)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   GitLab (both for git repository and CI/CD via GitLab Runners)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   (CloudBees) Jenkins and Jenkins Community Edition<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   SonarQube (for Static Code Analysis)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Sonatype Nexus IQ (for Dependency Analysis, Static Code Analysis and SBOM creation)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Sonatype Nexus Repository Manager (for jars, npms, and docker images)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;This team proposed, created, and executed an upgrade cadence for these applications. They wrote Terraform and Ansible scripts to automate installation processes to provide Infrastructure as Code (IaC) traceability and blue/green deployments. This allowed the team to significantly decrease the amount of time needed to upgrade applications.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;The team also supported a move from CloudBees Jenkins (on premises) to Jenkins Community Edition running in containers using AWS Fargate. This saved the client significant amounts on licensing fees and on a reduced on-premises server footprint.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;The Platform team also proposed and outlined migration plans to move Nexus IQ and Nexus RM from the on premises data center to AWS.<br/>

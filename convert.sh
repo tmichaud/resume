@@ -7,4 +7,4 @@ libreoffice --headless --convert-to pdf --outdir .  ./Resume.docx
 pandoc Resume.docx -t markdown --wrap=none  -o README.md
 mv README.md README.tmp
 cat README.tmp | ./c.pl > README.md
-
+rm README.tmp
