@@ -22,12 +22,15 @@ https://github.com/tmichaud/resume<br/>
 <li>Associate Cloud Engineer (Google) Expires 05/17/2028
 <li>Okta Certified Professional Expires 04/13/2027
 <li>AWS Certified Practitioner Expires 05/20/2026
-<li>HashiCorp Certified: Terraform Associate Expires 11/18/2025
+<li>HashiCorp Certified: Terraform Associate Expires 01/06/2028
 </ul>
 https://www.credly.com/users/thomas-michaud/badges
 </P>
 <br/>
-<b>Steampunk, Principle DevSecOps Engineer 08/2024-Present</b><br/>
+<b>Steampunk, Principle DevSecOps Engineer 12/2025-Present</b><br/>
+<b>On contract for CBP</b><br/>
+<br/>
+<b>Steampunk, Principle DevSecOps Engineer 08/2024-12/2025</b><br/>
 <b>On contract for FEMA</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Google Cloud Platform, GitLab, Harness, OpenShift (Kubernetes), Helm, ArgoCD,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;NexusRM, Jenkins, MySQL, PostgreSQL, MongoDB, HashiCorp Vault<br/>
