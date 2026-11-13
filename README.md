@@ -29,8 +29,7 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>Steampunk, Principle Software Architect 01/2026-Present</b><br/>
 <b>On contract for CBP</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, Kubernetes, Databricks, Python, MS-SQL, Harness, Artifactory, GitLab, Salesforce, Apache Camel<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Assigned to the Data Integration Team, Thomas quickly came up to speed on Hiring Integration Applications, including learning Apache Camel and Salesforce. He investigating errors and recommending effective remediations. He also learned and developed projects in Databricks.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Assigned to the Data Integration Team, Thomas quickly came up to speed on Hiring Integration Applications, including learning Apache Camel and Salesforce. He investigated errors and recommended effective remediations. He also learned and developed projects in Databricks.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Notably:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Designed, developed, and re-engineered the Trusted Identity Exchange (TIE) project, migrating workflows from MS-SQL Agent to Databricks while ensuring high data quality.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Provided adhoc Unix Administration for the Data Integration Team, including managing, monitoring, and troubleshooting core data exchange workflows.<br/>
@@ -43,8 +42,8 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;Brought in as a Senior DevOps engineer, Thomas quickly learned the Google Cloud Platform and OpenShift environment. He was assigned as a DevOps Liaison for the Phoenix application development team. He learned their particular applications and was fundamental in assisting the team in configuration changes and increasing their release velocity.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Notably:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Updated Application Harness pipelines to utilize the External Secrets Operator to allow for credentials to be stored in HashiCorp Vault.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;-   Reviewed, updated, and standardized his development team's OpenShift configuration files while rewriting them from Kustomize to Helm Templates. This allowed for greater readability, easier configuration and the freeing of unneeded resources. This was also an required step in the move from releasing via Jenkins to via Harness.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;-   Lead and updated the Jenkins release process. This release process involved running all customizations required and updating the applications on load night, debugging any issues that may occur and releasing the environment to the testing teams and getting approval to release the environment to the customers.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Reviewed, updated, and standardized his development team's OpenShift configuration files while rewriting them from Kustomize to Helm Templates. This allowed for greater readability, easier configuration and the freeing of unneeded resources. This was also a required step in the move from releasing via Jenkins to via Harness.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Led and updated the Jenkins release process. This release process involved running all customizations required and updating the applications on load night, debugging any issues that occurred and releasing the environment to the testing teams and getting approval to release the environment to the customers.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Addressed several security concerns including:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    -   Changes to ensure GitLab branches were tied to an appropriate Jira ticket<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    -   Updating pipelines to invoke DAST scans (Invicti) during builds<br/>
