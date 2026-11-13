@@ -29,8 +29,8 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>Steampunk, Principle Software Architect 01/2026-Present</b><br/>
 <b>On contract for CBP</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, Kubernetes, Databricks, Python, MS-SQL, Harness, Artifactory, GitLab, Salesforce, Apache Camel<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Assigned to the Data Integration Team, Thomas quickly came up to speed on Hiring Integration Applications, including learning Apache Camel and Salesforce. He investigating errors and recommending effective remediations. He also learned and developed projects in Databricks.\<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;\<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Assigned to the Data Integration Team, Thomas quickly came up to speed on Hiring Integration Applications, including learning Apache Camel and Salesforce. He investigating errors and recommending effective remediations. He also learned and developed projects in Databricks.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Notably:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Designed, developed, and re-engineered the Trusted Identity Exchange (TIE) project, migrating workflows from MS-SQL Agent to Databricks while ensuring high data quality.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Provided adhoc Unix Administration for the Data Integration Team, including managing, monitoring, and troubleshooting core data exchange workflows.<br/>
