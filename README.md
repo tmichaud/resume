@@ -9,7 +9,7 @@ https://github.com/tmichaud/resume<br/>
 <ul>
 <li>Programming Languages: Go, Java, Python, SQL, Perl, Bash Shell
 <li>Operating Systems: OpenShift, Unix, Linux, Windows
-<li>Relational Databases: PostgreSQL, MySQL, MongoDB, Oracle, Sybase
+<li>Relational Databases: PostgreSQL, MySQL, MongoDB, Oracle, Sybase, MS-SQL, Databricks
 <li>CI/CD Servers: GitLab, Harness, Jenkins, Bamboo
 <li>Orchestration/Provisioning Tools: Terraform, Cloudformation, Ansible
 <li>Source Code Control: Git, SVN, CVS, ClearCase, SourceSafe, Vault, PVCS
@@ -30,7 +30,7 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>On contract for CBP</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, Kubernetes, Databricks, Python, MS-SQL, Harness, Artifactory, GitLab, Salesforce, Apache Camel<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Assigned to the Data Integration Team, Thomas quickly came up to speed on Hiring Integration Applications, including learning Apache Camel and Salesforce. He investigated errors and recommended effective remediations. He also learned and developed projects in Databricks.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notably:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Designed, developed, and re-engineered the Trusted Identity Exchange (TIE) project, migrating workflows from MS-SQL Agent to Databricks while ensuring high data quality.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Provided adhoc Unix Administration for the Data Integration Team, including managing, monitoring, and troubleshooting core data exchange workflows.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Researched, developed, and delivered a 7-Zip alternative using Python to securely decrypt zip files.<br/>
@@ -40,10 +40,10 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Google Cloud Platform, GitLab, Harness, OpenShift (Kubernetes), Helm, ArgoCD,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;NexusRM, Jenkins, MySQL, PostgreSQL, MongoDB, HashiCorp Vault<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Brought in as a Senior DevOps engineer, Thomas quickly learned the Google Cloud Platform and OpenShift environment. He was assigned as a DevOps Liaison for the Phoenix application development team. He learned their particular applications and was fundamental in assisting the team in configuration changes and increasing their release velocity.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notably:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Updated Application Harness pipelines to utilize the External Secrets Operator to allow for credentials to be stored in HashiCorp Vault.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Reviewed, updated, and standardized his development team's OpenShift configuration files while rewriting them from Kustomize to Helm Templates. This allowed for greater readability, easier configuration and the freeing of unneeded resources. This was also a required step in the move from releasing via Jenkins to via Harness.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;-   Led and updated the Jenkins release process. This release process involved running all customizations required and updating the applications on load night, debugging any issues that occurred and releasing the environment to the testing teams and getting approval to release the environment to the customers.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Led and updated the Jenkins release process. This release process involved running all customizations required and updating the applications on load night, debugging any issues that occurred, and releasing the environment to the testing teams and getting approval to release the environment to the customers.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Addressed several security concerns including:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    -   Changes to ensure GitLab branches were tied to an appropriate Jira ticket<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    -   Updating pipelines to invoke DAST scans (Invicti) during builds<br/>
@@ -69,7 +69,7 @@ https://www.credly.com/users/thomas-michaud/badges
 &nbsp;&nbsp;&nbsp;&nbsp;Okta Certified Professional<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: AWS, Java, Okta, Ping, Docker, OAuth2, OIDC, SAML<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Developed identity and authorization solutions in a variety of environments.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notable items:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Implemented and configured SAML and OIDC authentication protocols with Okta to provide Single-Sign-On capabilities for applications, enhanced security and increasing scalability of applications.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Configured and managed Okta applications, users, and security policies ensuring seamless integration and adherence to industry best practices in identity and access management.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Investigated Ping Federate using AWS, Docker, Ping DevOps.<br/>
@@ -78,14 +78,14 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>On contract for the US Navy</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: AWS, Liferay, Java, Ansible, Nexus, Git, Bamboo, BitBucket, Jira<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Specialized in the development of pipelines to automate the building and delivery of software to QA and Production.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notable items:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developed a notification program using Lambda, Python, SQS, and SNS. This allowed proactive detection of configuration changes that resulted in reduced impact to the users.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Configured and maintained Bamboo, Bitbucket and Jira applications to ensure seamless integration of the CI/CD pipelines from issue tracking to code management to production deployment.<br/>
 <br/>
 <b>Lockheed Martin, DevOps (Contractor) 10/2018-11/2019</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Ansible, OpenShift, Jenkins, VMWare, Satellite, Nexus, Docker<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Worked on a program-enhancing team to explore the shift from legacy Windows applications to a Linux-OpenShift containerized approach.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notable items:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Setting up Jenkins pipelines in OpenShift for Development teams to ensure testing and automating delivery<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developing Ansible scripts to configure both Linux and Windows boxes in both command-line Ansible and Ansible Tower<br/>
 <br/>
@@ -95,7 +95,7 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>Accesso, Architecture Team Senior Developer 03/2016-03/2018</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, MySQL, RESTful WS, DevOps, AWS, Jenkins, Docker<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Creating DevOps solutions for the development teams including Continuous Integration, Continuous Deployment and Continuous Delivery.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notable items:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Migrated all Git repositories from locally hosted Gerrit to GitHub via Python and Bash scripts.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Managed, standardized and maintained the build scripts for 75+ GitHub repositories<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developed both Nightly and Continuous Integration scripts with GitHub protected branches with status checks. This included working with both development and management in standardizing our software control processes.<br/>
@@ -108,7 +108,7 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>Accesso, Team Lead -- Payments 12/2014-03/2016</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, MySQL, C#, XML, Sockets<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Implemented new payment processing solutions while maintaining and monitoring the single back-end e-commerce solution for web, kiosk and mobile platforms Point-of-Sale platforms. These new features and interfaces had to be within PCI compliance and standards. This system processes over \$1 billion (USD) in revenue every year.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notable items:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Led an initial team of 3 developers (eventually increased to 6). Deployed 6 new payment interfaces on time and within budget. Responsible for mentoring, design, and review of code.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developed code to process additional payment processors (Ogone and Acculynk). This allowed us to process additional card types including China Union Pay and JCB. Developed in Java, MySQL, XML.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Developed code for new Point-of-Sale system to process payment processors including Shift4 and Verifone (UK and US) while interfacing with new vendors. Developed in Java, C#, MySQL.<br/>
@@ -117,7 +117,7 @@ https://www.credly.com/users/thomas-michaud/badges
 <b>Accesso, Senior Developer 03/2013-12/2014</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, MySQL, C#, XML, Sockets<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Implemented new features to the back-end ticketing framework and providing mentoring to developers.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Notable Points:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notable Efforts:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Evaluated and recommended simplified load techniques -- such as automation, data migration and configuration management.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Evaluated, recommended and implemented Unit Testing via JUnit testing framework and Continuous Integration Server (Jenkins). Evaluated and recommended Mockito and PowerMock.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;-   Recommended and implemented switching to Git source code control (in 2013).<br/>
