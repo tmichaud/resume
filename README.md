@@ -21,16 +21,22 @@ https://github.com/tmichaud/resume<br/>
 <ul>
 <li>Associate Cloud Engineer (Google) Expires 05/17/2028
 <li>Okta Certified Professional Expires 04/13/2027
-<li>AWS Certified Practitioner Expires 05/20/2026
 <li>HashiCorp Certified: Terraform Associate Expires 01/06/2028
 </ul>
 https://www.credly.com/users/thomas-michaud/badges
 </P>
 <br/>
-<b>Steampunk, Principle DevSecOps Engineer 12/2025-Present</b><br/>
+<b>Steampunk, Principle Software Architect 01/2026-Present</b><br/>
 <b>On contract for CBP</b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Java, Kubernetes, Databricks, Python, MS-SQL, Harness, Artifactory, GitLab, Salesforce, Apache Camel<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Assigned to the Data Integration Team, Thomas quickly came up to speed on Hiring Integration Applications, including learning Apache Camel and Salesforce. He investigating errors and recommending effective remediations. He also learned and developed projects in Databricks.\<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;\<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Notably:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Designed, developed, and re-engineered the Trusted Identity Exchange (TIE) project, migrating workflows from MS-SQL Agent to Databricks while ensuring high data quality.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Provided adhoc Unix Administration for the Data Integration Team, including managing, monitoring, and troubleshooting core data exchange workflows.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   Researched, developed, and delivered a 7-Zip alternative using Python to securely decrypt zip files.<br/>
 <br/>
-<b>Steampunk, Principle DevSecOps Engineer 08/2024-12/2025</b><br/>
+<b>Steampunk, Principle DevSecOps Engineer 01/2024-12/2025</b><br/>
 <b>On contract for FEMA</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Development Environment: Google Cloud Platform, GitLab, Harness, OpenShift (Kubernetes), Helm, ArgoCD,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;NexusRM, Jenkins, MySQL, PostgreSQL, MongoDB, HashiCorp Vault<br/>
